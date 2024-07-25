@@ -1,0 +1,28 @@
+.a {
+    width: 800px;
+    height: 500px;
+    background: url(../img/spanish.jpg);
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    color: black;
+}
+
+.b {
+    width: 800px;
+    height: 500px;
+    background: url(../img/english.jpg);
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    align-items: center;
+    color: black;
+}
+
+.qwe {
+    display: flex;
+    justify-content: center;
+}
